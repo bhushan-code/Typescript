@@ -18,4 +18,4 @@ for(Cnt = 0; Cnt <= (Data1.length-1); Cnt++)
 console.log("Summation of all elements is : "+Sum)
 
 
-//not work
+// work
