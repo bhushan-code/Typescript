@@ -14,8 +14,4 @@ Ans = TEMP(11,10)
 console.log("Addition is : "+Ans)
 
 
-
-
-
-
-
+console.log(typeof(TEMP))
