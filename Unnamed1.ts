@@ -11,3 +11,5 @@ var Ans : number
 Ans = Addition(11,10)
 
 console.log("Addition is "+Ans)
+
+console.log(typeof(Addition))
