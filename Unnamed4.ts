@@ -13,3 +13,5 @@ var Ans : number = 0
 Ans = TEMP(10,11)
 
 console.log("Addition is : "+Ans)
+
+console.log(typeof(TEMP))
